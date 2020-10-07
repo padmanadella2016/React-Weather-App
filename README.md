@@ -1,10 +1,17 @@
 ## React Weather App 
 
-In this project i have used openweathermap API for data source. Unfortunately they don not have pollen count information
+In this project i have used openweathermap API for data source. Unfortunately they do not have pollen count information.
 
 
 ## Project Status
-Can Add More Functionality, This is basic Weather APP with Unit testing
+Can Add More Functionality, This is basic Weather APP with Unit testing of few components.
+
+Functionality Implemented 
+
+5 days weather forecast with city search option 
+Responsive to all screens 
+User can switch between imperial/metric units
+
 
 
 ## Installation and Setup Instructions
