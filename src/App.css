@@ -1,0 +1,120 @@
+.app {
+  font-family: "Raleway", sans-serif;
+  border: 1px solid black;
+  /* box-shadow: 5px 5px 5px grey; */
+  margin: auto;
+  width: 90vw;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.favourites {
+  margin-left: 20px;
+}
+
+li {
+  color:orange;
+  display: inline;
+  padding: 0 10px 0 0;
+  cursor: pointer;
+}
+
+.favourites ul {
+  padding: 0;
+  margin-bottom: 0;
+}
+/* styles for search */
+.search {
+  margin: auto;
+}
+
+.formStyle {
+  margin-top:5vh;
+  padding:0 0 0 0;
+  color:orange;
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid black;
+  margin-right: 2px;
+  text-align: baseline;
+}
+.searchbutton{
+  font-size: 20px;
+  border-bottom:none
+}
+
+.temperatureButton {
+  color: orange;
+  background-color: transparent;
+  border: none;
+  font-size: 12px;
+  font-weight: 700;
+  position: absolute;
+  top: unset;
+}
+
+.display p {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.weather {
+  padding-top: 10px;
+}
+
+.city {
+  text-align: left;
+}
+
+.city h1 {
+  margin: 0;
+}
+
+.temperature {
+  align-self: center;
+  text-align: center;
+}
+
+.mainTemperature {
+  font-size: 36px;
+  font-weight: 900px;
+}
+
+.data {
+  align-self: center;
+  text-align: left;
+}
+
+.largeValue {
+  font-size: 18px;
+  font-weight: 900px;
+}
+
+
+
+.forecast {
+  margin: 20px;
+  text-align: center;
+  padding-top: 10px;
+ 
+}
+
+.forecast p {
+  line-height: 16px;
+}
+
+.forecast .col-2 {
+  padding: 0;
+}
+
+.footNote {
+  margin-left:20px;
+  font-size: 12px;
+  line-height: 26px;
+}
+
