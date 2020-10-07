@@ -8,9 +8,9 @@ Can Add More Functionality, This is basic Weather APP with Unit testing of few c
 
 Functionality Implemented 
 
-5 days weather forecast with city search option 
-Responsive to all screens 
-User can switch between imperial/metric units
+5 days weather forecast with city search option <br />
+Responsive to all screens <br />
+User can switch between imperial/metric units<br />
 
 
 
